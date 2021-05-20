@@ -1235,7 +1235,7 @@ body{
 body.dark .section{
     background-color: #151515;
 }
-
+body.dark .blog .blog-item-inner,
 body.dark .aside{
     background-color: #222222;
 }
