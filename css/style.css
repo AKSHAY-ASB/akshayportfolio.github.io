@@ -130,6 +130,11 @@ body{
     padding-right: 15px;
 }
 
+.paddbtn{
+    padding-left: 60%;
+    /*padding-right: 60%;*/
+}
+
 .section .container{
     padding-top: 60px;
     padding-bottom: 70px;
