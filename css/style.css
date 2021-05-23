@@ -437,7 +437,7 @@ body{
     display: inline-block;
     text-align: center;
     line-height: 35px;
-    color: #fff;
+/*     color: #fff; */
     margin: 0 4px;
     border-radius: 50%;
     -webkit-transition:all 0.3s ease;
